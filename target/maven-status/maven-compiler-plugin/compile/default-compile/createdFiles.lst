@@ -1,0 +1,7 @@
+com\batista\spring6restmvc\controller\BeerController.class
+com\batista\spring6restmvc\model\BeerStyle.class
+com\batista\spring6restmvc\service\BeerServiceImpl.class
+com\batista\spring6restmvc\model\Beer.class
+com\batista\spring6restmvc\service\BeerService.class
+com\batista\spring6restmvc\model\Beer$BeerBuilder.class
+com\batista\spring6restmvc\Spring6RestMvcApplication.class
